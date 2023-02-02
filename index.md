@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+permalink: /repo
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
